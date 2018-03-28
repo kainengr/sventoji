@@ -1,0 +1,37 @@
+a { text-decoration: none; }
+a h1 { background: lightgray; color: black; }
+a h1:hover { background: lightgray; color: crimson; }
+body {
+    background: white; }
+dfn { color: black; }
+table {
+    margin-left: +1%;
+    font-family: sans-serif;
+    border-width: 2;
+    border-color: #003300; 0 }
+h1 { color: black; }
+h2 { color: black; }
+h3 { color: black; }
+/* navigation panel */
+#nav { display: inline-block;
+       text-align: center;
+       float: center;
+     }
+#nav ul li{
+    display: inline-block;
+    height: 62px;
+}
+#nav ul li a{
+    padding: 10px;
+    background: lightgray;
+    color: white;
+}
+#nav ul li a:hover{
+    background-color: cadetblue;
+    box-shadow: 0px 1px 1px #090909;
+    color: sienna;
+}
+
+span.year{
+    color: cadetblue;
+}
