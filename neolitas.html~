@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Šventoji – akmens amžiaus gyvenvietė</title>
+    <title>Šventoji. Neolitas</title>
     <meta charset="utf-8">
     <meta name="author" content="Jurgis" />
     <meta name="viewport" content="width=device-wifth, initial-scale=1.0" />
@@ -10,11 +10,12 @@
   <body>
     <a href="index.html"><h1>Šventoji</h1></a>
     <div id="nav">
-<ul>
-  <li><a class="title" href="paleolitas.html">Paleolitas</a></li>
-  <li><a class="title" href="mezolitas.html">Mezolitas</a></li>
-  <li><a class="title" href="neolitas.html">Neolitas</a></li>
-</ul>
+      <ul>
+	<li><a class="title" href="paleolitas.html">Paleolitas</a></li>
+	<li><a class="title" href="mezolitas.html">Mezolitas</a></li>
+	<li><a class="title" href="neolitas.html">Neolitas</a></li>
+      </ul>
     </div>
+    <img src="images/apeigines.lazdos">
   </body>
 </html>
